@@ -1,0 +1,15 @@
+{
+  "name": "angular_todo",
+  "version": "1.0.0",
+  "description": "Todo List in Angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "bower": "^1.3.12"
+  }
+}
