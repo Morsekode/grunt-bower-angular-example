@@ -22,6 +22,10 @@ $ npm install && bower install
 
 Step 3 - Once complete, type `grunt serve` to run the Grunt server start up, which will automatically show open up a new browser window with the instance of the server running.
 
+```
+http://127.0.0.1:8000
+```
+
 #### NOTE
 
 By default, Grunt will start the server on the localhost port 8000. If there is already a process running on your local machine on that port, Grunt will throw an error and the server start up script will fail.
